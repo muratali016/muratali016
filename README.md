@@ -26,11 +26,12 @@
 
 <a href="https://www.linkedin.com/in/murat-ali-avcu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<a href="https://medium.com/@murataliavcu1" target="_blank"><img src="https://user-images.githubusercontent.com/77502485/188129077-1db4721e-33f4-4246-bba4-019d1b97db2a.png" alt="Medium"></a>
+<a href="https://medium.com/@murataliavcu1" target="_blank"><img src="https://user-images.githubusercontent.com/77502485/188129987-96891100-23a3-4a38-9387-1d062f017fe1.png" alt="Medium"></a>
 
 </div>
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/murat-ali-avcu/) ● [M​E​D​I​U​M](https://medium.com/@murataliavcu1)   -->
+
 
 
 
