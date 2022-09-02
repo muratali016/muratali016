@@ -1,6 +1,6 @@
-<div align="left">
+
 <h2> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+
 
 ---
 
