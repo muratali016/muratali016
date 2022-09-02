@@ -29,7 +29,7 @@
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/murat-ali-avcu/) ● [M​E​D​I​U​M](https://medium.com/@murataliavcu1) ●  -->
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/murat-ali-avcu/) ● [M​E​D​I​U​M](https://medium.com/@murataliavcu1)   -->
 
 
 
