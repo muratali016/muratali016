@@ -4,11 +4,7 @@
 </div>
 
 <div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
 </div>
-
 <div align="center">
 
 #### Part-time Machine learning engineer at Argenit
@@ -28,7 +24,7 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+
 
 <i>Follow me around the web:</i><br>
 
@@ -48,7 +44,5 @@
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
 
-<!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
