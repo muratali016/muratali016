@@ -25,7 +25,7 @@
  
 
 <a href="https://www.linkedin.com/in/murat-ali-avcu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://medium.com/@murataliavcu1" target="_blank"><img src="https://user-images.githubusercontent.com/77502485/188128809-569b6fca-a14c-48fe-917d-e0cc0d186672.png" alt="Medium"></a>
+<a href="https://user-images.githubusercontent.com/77502485/188129077-1db4721e-33f4-4246-bba4-019d1b97db2a.png" alt="Medium"></a>
 
 </div>
 
