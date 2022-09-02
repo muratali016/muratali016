@@ -9,9 +9,6 @@
 
 #### Part-time Machine learning engineer at Argenit
 #### Second-year Electronical engineering student
-
-<i> Coding!</i> 😊
-
 </div>
 
 <div align="center">
