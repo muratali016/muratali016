@@ -14,19 +14,6 @@
 
 ---
 
-<j>Follow me around the web:</j><br>
-
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://medium.com/@murataliavcu1">M​E​D​I​U​M</a> ● -->
- 
-
-<a href="https://www.linkedin.com/in/murat-ali-avcu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<a href="https://medium.com/@murataliavcu1" target="_blank"><img src="https://user-images.githubusercontent.com/77502485/188131066-e81ddab9-8605-4b32-a013-6c4b3d864dd1.png" alt="Medium"></a>
-
-</div>
-
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/murat-ali-avcu/) ● [M​E​D​I​U​M](https://medium.com/@murataliavcu1)   -->
 
 
 
