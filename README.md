@@ -2,7 +2,7 @@
 <div align="left" width="50">
 </div>
 
-#### Part-time Machine learning engineer at Argenit
+#### Machine learning / Computer Vision enthusiast and freelancer
 #### Second-year Electronical engineering student
 
 <div align="left">
