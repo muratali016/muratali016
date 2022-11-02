@@ -2,6 +2,8 @@
 <div align="left" width="50">
 </div>
 
+
+#### Electrical and electronics engineering student at Turkish-German University
 #### Machine learning / Computer Vision enthusiast and freelancer
 
 <div align="left">
