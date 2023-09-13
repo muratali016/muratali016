@@ -3,7 +3,7 @@
 </div>
 
 
-#### Electrical and electronics engineering student at Turkish-German University
+ 
  
 
 <div align="left">
