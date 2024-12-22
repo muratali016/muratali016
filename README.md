@@ -2,7 +2,7 @@
 <div align="left" width="50">
 </div>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=muratali016&color=blue)
  
  
 
