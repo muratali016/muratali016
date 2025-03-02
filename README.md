@@ -2,7 +2,6 @@
 <div align="left" width="50">
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=muratali016&color=blue)
  
  * My YouTube Channel: https://www.youtube.com/@murataavcu
  * My Udemy Instructor Account: https://www.udemy.com/user/murat-ali-avcu/ 
