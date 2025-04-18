@@ -2,7 +2,7 @@
 <div align="left" width="50">
 </div>
 
- * Data Scientist at Ecom Company in LA
+ * Data Scientist at Ecom Company
  * My YouTube Channel: https://www.youtube.com/@murataavcu
  * My Udemy Instructor Account: https://www.udemy.com/user/murat-ali-avcu/ 
 
