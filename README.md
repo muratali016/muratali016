@@ -2,7 +2,7 @@
 <div align="left" width="50">
 </div>
 
- * Data Scientist at Ecom Company
+ * M.S. Business Analytics @ Cal Poly Pomona | Building AI & Data Products
  * My YouTube Channel: https://www.youtube.com/@murataavcu
  * My Udemy Instructor Account: https://www.udemy.com/user/murat-ali-avcu/ 
 
